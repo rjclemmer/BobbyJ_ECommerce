@@ -9,8 +9,8 @@
   
   ## Walkthrough Video
 
-  test test
-
+  https://drive.google.com/file/d/1XtOIXwh6aC7z4eqx6I3Elomz08iD6sUf/view
+  
   ## Installation
   To install necessary dependencies, run the following command:
 
