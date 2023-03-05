@@ -44,7 +44,7 @@ Then, start working with the main file:
 ```
 Finally, the program can be run using:
 
-``bash
+``
   npm start
 ``
 
