@@ -10,6 +10,7 @@
   ## Walkthrough Video
  
   ## Screenshot
+  <img src="./assets/screenshot_BobbyJ.jpg" alt="Photo of ECommerce app" title="Photo of ECommerce app">
 
 
   ## Installation
@@ -63,5 +64,3 @@ Finally, the program can be run using:
   ## Questions
   If you have any questions clemmer.robert.j@gmail.com. You can find more of my work on GitHub at [rjclemmer](https://github.com/rjclemmer).
 
-
-  
