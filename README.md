@@ -3,23 +3,14 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This application uses Sequelize to interact with a mySQL database. User's can make get, single id get, post, put, and delete requests.
-
-  ## Table of Contents
-  - [Walkthrough_Video](#Walkthrough_Video)
-  - [Thumbnail](#Thumbnail)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
-  - [Contributing](#Contributing)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
-
+  AS A manager at an internet retail company
+  I WANT a back end for my e-commerce website that uses the latest technologies
+  SO THAT my company can compete with other e-commerce companies
+  
   ## Walkthrough Video
-  [Link to Walkthrough](https://drive.google.com/file/d/1gC4sjh64viZrUSP5RY1PjWjkW1cMwZwV/view?usp=sharing)
+ 
+  ## Screenshot
 
-  ## Thumbnail
-  ![Thumbnail](images/thumbnailEcommerce.png)
 
   ## Installation
   To install necessary dependencies, run the following command:
@@ -48,7 +39,7 @@ Now, you can proceed to create the datbase schema in MySQL Terminal:
 
 Then, start working with the main file:
 
-```bash
+```
   node seeds/index.js
 ```
 Finally, the program can be run using:
