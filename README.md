@@ -10,7 +10,7 @@
   ## Walkthrough Video
  
   ## Screenshot
-  <img src="./assets/screenshot_BobbyJ.jpg" alt="Photo of ECommerce app" title="Photo of ECommerce app">
+  <img src="./Assets/screenshot_BobbyJ.jpg" alt="Photo of ECommerce app" title="Photo of ECommerce app">
 
 
   ## Installation
