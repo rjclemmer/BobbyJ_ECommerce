@@ -10,7 +10,11 @@
   ## Walkthrough Video
 
   https://drive.google.com/file/d/1XtOIXwh6aC7z4eqx6I3Elomz08iD6sUf/view
-  
+
+
+  ## Screenshot
+  <img src="./Assets/screenshot_BobbyJ.jpg" alt="Photo of ECommerce App" title="Photo of ECommerce App">
+
   ## Installation
   To install necessary dependencies, run the following command:
 
