@@ -8,6 +8,8 @@
   SO THAT my company can compete with other e-commerce companies
   
   ## Walkthrough Video
+
+  test test
  
   ## Screenshot
   <img src="./Assets/screenshot_BobbyJ.jpg" alt="Photo of ECommerce app" title="Photo of ECommerce app">
